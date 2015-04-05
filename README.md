@@ -18,3 +18,6 @@ platform.
 - jQuery at its core is a DOM (document object model) manipulation library.
 - The DOM is a tree-structure manipulation of all the elements of a webpage and jQuery makes finding, selecting, and 
 manipulating these DOM elements simple and convenient.
+- jQuery can be used for finding an element in a document with a certain property (e.g. all elements with an h1 tag), changing 
+one or more of its attributes (e.g. color, visibility), or making it respond to an event (e.g. a mouse click).
+- jQuery provides a new paradigm for event handling 
